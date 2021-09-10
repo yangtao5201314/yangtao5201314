@@ -20,8 +20,7 @@
 < code >< img  height = "20"  src = " https://github.com/Minori-ty/Minori-ty/blob/main/docker.jpg " ></ code >
 
 ### 开源项目
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=yangtao5201314&repo=qq-bot)](https://github.com/yangtao5201314)
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=vue3-electron-serialport)](https://github.com/Minori-ty/vue3-electron-serialport)
+
 <br><br><br>
 
 
