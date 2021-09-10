@@ -22,5 +22,5 @@
 
 ### Github活跃度
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=yangtao5201314&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangtao5201314)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty)
 
