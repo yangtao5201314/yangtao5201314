@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## 前端工程师—天平
+##前端工程师—杨涛
 
 热爱前端、热爱技术。工作经验两个月。喜欢参与一些开源项目的讨论。
 
@@ -17,10 +17,10 @@
 <code><img height="20" src="https://github.com/Minori-ty/Minori-ty/blob/main/less.png"></code>
 <code><img height="20" src="https://github.com/Minori-ty/Minori-ty/blob/main/element plus.png"></code>
 <code><img height="20" src="https://github.com/Minori-ty/Minori-ty/blob/main/vant.png"></code>
-<code><img height="20" src="https://github.com/Minori-ty/Minori-ty/blob/main/docker.jpg"></code>
+< code >< img  height = "20"  src = " https://github.com/Minori-ty/Minori-ty/blob/main/docker.jpg " ></ code >
 
 ### 开源项目
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=qq-bot)](https://github.com/Minori-ty/qq-bot)
+[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=yangtao5201314&repo=qq-bot)](https://github.com/yangtao5201314)
 [![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=vue3-electron-serialport)](https://github.com/Minori-ty/vue3-electron-serialport)
 <br><br><br>
 
