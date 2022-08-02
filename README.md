@@ -6,7 +6,7 @@
 
 ### **社交主页：**
 
-- <a href="https://pic.sucaibar.com/m00/26/b5/6e74280686bf1dbee195303b4ff8d8ec.jpg"><code><img src="http://n.sinaimg.cn/sinakd2020519s/88/w600h288/20200519/0492-itvqcca2822585.png" height="20" width="50"/></code></a>：拥有22个技术视频，500多位粉丝，4万播放量
+- <a href="https://space.bilibili.com/560080179?spm_id_from=333.1007.0.0"><code><img src="http://n.sinaimg.cn/sinakd2020519s/88/w600h288/20200519/0492-itvqcca2822585.png" height="20" width="50"/></code></a>：拥有22个技术视频，500多位粉丝，4万播放量
 - <a href="https://blog.csdn.net/qq_48652579?spm=1000.2115.3001.5343"><code><img height="20" width="50" src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.25pp.com%2Fuploadfile%2Fsoft%2Fimages%2F2015%2F0516%2F20150516082551569.jpg&refer=http%3A%2F%2Fimg.25pp.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1633840111&t=4605dba67313df10cfca7a84c01a3f4f"></code></a>：发表了14篇技术文章，5000阅读
 
 ### **技术栈:**
