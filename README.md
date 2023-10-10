@@ -15,7 +15,7 @@
 ### **社交主页：**
 
 - <a href="https://space.bilibili.com/560080179"><code><img src="http://n.sinaimg.cn/sinakd2020519s/88/w600h288/20200519/0492-itvqcca2822585.png" height="20" width="50"/></code>拥有22个技术视频，500多位粉丝，8万播放量</a>：
-- <a href="https://blog.csdn.net/qq_48652579?spm=1000.2115.3001.5343"><code><img height="20" width="50" src="https://img-home.csdnimg.cn/images/20201124032511.png"></code>：发表了14篇技术文章，1w+阅读</a>
+- <a href="https://blog.csdn.net/qq_48652579?spm=1000.2115.3001.5343"><code><img height="20" width="50" src="https://img-home.csdnimg.cn/images/20201124032511.png"></code>：发表了14篇技术文章，20w+阅读</a>
 - <a href="https://developer.aliyun.com/profile/expert/n5cbl6lpfvc2a"><code><img height="25" width="100" src="https://img.alicdn.com/tfs/TB13DzOjXP7gK0jSZFjXXc5aXXa-212-48.png"></code>：发表了106篇技术文章，5w+阅读</a>
 
 
