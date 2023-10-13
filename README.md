@@ -10,7 +10,7 @@
 - 🌱 I’m a pupil of front-end learning.
 - 🤔 I’m currently coding in Javascript and Vue.
 - ❤️ I like playing game 🌩 and coding.
-- 💬 Be free to ask me about anything [here](https://github.com/yangtao5201314/yangtao5201314).  
+- 💬 Be free to ask me about anything [here](https://github.com/yangtao5201314/my-blog/issues/new).  
 
 ### **社交主页：**
 
